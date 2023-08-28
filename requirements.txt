@@ -1,0 +1,14 @@
+chex==0.1.7
+flax==0.7.1
+jax==0.4.13
+optax==0.1.5
+mediapipe
+numpy
+pandas
+python_Levenshtein
+scikit_learn
+scipy
+tensorflow
+tflite_runtime
+torch
+wandb
